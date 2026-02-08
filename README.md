@@ -11,7 +11,8 @@ open websites, and send emails using voice commands.
 - Open apps & websites
 - Play music
 - Send emails
-- Tell current time
+- Tell the current time
+- There are two voices, male/female
 
 ## 🛠 Tech Stack
 - Python
