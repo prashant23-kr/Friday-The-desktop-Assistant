@@ -20,6 +20,7 @@ open websites, and send emails using voice commands.
 - SpeechRecognition
 - Wikipedia API
 - SMTP
+- pip date
 
 ## ▶️ How to Run
 ```bash
